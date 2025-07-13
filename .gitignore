@@ -1,0 +1,25 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Model files
+models/*.h5
+models/final_model/
+models/final_tokenizer.pkl
+
+# Environment
+.env
+.venv/
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit & logs
+*.log
+.cache/
+.streamlit/
+
+# Jupyter checkpts (if any notebooks)
+.ipynb_checkpoints/
