@@ -8,9 +8,9 @@ models/final_model/
 models/final_tokenizer.pkl
 
 # Environment
-.env
-.venv/
-*.env
+env
+venv/
+*env
 
 # OS junk
 .DS_Store
